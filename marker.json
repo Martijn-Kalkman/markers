@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "latitude": 52.370216,
+      "longitude": 4.895168,
+      "title": "Amsterdam"
+    },
+    {
+      "id": 2,
+      "latitude": 51.9225,
+      "longitude": 4.47917,
+      "title": "Rotterdam"
+    },
+    {
+      "id": 3,
+      "latitude": 52.0705,
+      "longitude": 4.3007,
+      "title": "den haag"
+    }
+  ]
+  

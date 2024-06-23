@@ -7,15 +7,50 @@
     },
     {
       "id": 2,
-      "latitude": 51.9225,
-      "longitude": 4.47917,
-      "title": "Rotterdam"
+      "latitude": 51.9148121265275,
+      "longitude": 4.588248704313889,
+      "title": "Dirk van den Broek"
     },
     {
       "id": 3,
-      "latitude": 52.0705,
-      "longitude": 4.3007,
-      "title": "den haag"
+      "latitude": 51.91586607335791,
+      "longitude": 4.588423057754336,
+      "title": "Albert Heijn"
+    },
+    {
+      "id": 4,
+      "latitude": 51.92305249793946,
+      "longitude": 4.622500030254696,
+      "title": "Lidl"
+    },
+    {
+      "id": 5,
+      "latitude": 51.915481784744415,
+      "longitude": 4.601501248232951,
+      "title": "Nika Buurtsuper"
+    },
+    {
+      "id": 6,
+      "latitude": 51.91426536405328,
+      "longitude": 4.589594382090266,
+      "title": "ALDI"
+    },
+    {
+      "id": 7,
+      "latitude": 51.922844000000005,
+      "longitude": 4.6104246465080285,
+      "title": "Lidl"
+    },
+    {
+      "id": 8,
+      "latitude": 51.921947426857116,
+      "longitude": 4.610655316471822,
+      "title": "Jumbo"
+    },
+    {
+      "id": 9,
+      "latitude": 51.917244300000014,
+      "longitude": 4.545289478316943,
+      "title": "Boon's Dagmarkt"
     }
   ]
-  
